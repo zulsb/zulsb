@@ -24,14 +24,14 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 
 Low-level programming & Algorithm | Higher-level programming | System engineering & DevOps
 ------------ | ------------- | -------------
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-low_level_programming&show_owner=true)](https://github.com/zulsb/holbertonschool-low_level_programming) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-higher_level_programming&show_owner=true)](https://github.com/zulsb/holbertonschool-higher_level_programming) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holberton-system_engineering-devops&show_owner=true)](https://github.com/zulsb/holberton-system_engineering-devops)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-low_level_programming)](https://github.com/zulsb/holbertonschool-low_level_programming) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-higher_level_programming)](https://github.com/zulsb/holbertonschool-higher_level_programming) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holberton-system_engineering-devops)](https://github.com/zulsb/holberton-system_engineering-devops)
 
 
 * **Specialization - Web Stack programming**
 
 Front-end | Back-end | React
 ------------ | ------------- | -------------
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_front_end&show_owner=true)](https://github.com/zulsb/holbertonschool-web_front_end) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_back_end&show_owner=true)](https://github.com/zulsb/holbertonschool-web_back_end) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_react&show_owner=true)](https://github.com/zulsb/holbertonschool-web_react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_front_end)](https://github.com/zulsb/holbertonschool-web_front_end) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_back_end)](https://github.com/zulsb/holbertonschool-web_back_end) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_react)](https://github.com/zulsb/holbertonschool-web_react)
 
 
 </details>
