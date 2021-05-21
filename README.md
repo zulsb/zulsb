@@ -17,8 +17,9 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 <summary>📂&nbsp;&nbsp;&nbsp;<b>Projects</b></summary>
 
 #### ✏️ Courses Projects
-
+------------------------------------
 #### 📚 Holberton School - Projects
+------------------------------------
 
 * **Foundations**
 
@@ -33,12 +34,11 @@ Front-end | Back-end | React
 ------------ | ------------- | -------------
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_front_end)](https://github.com/zulsb/holbertonschool-web_front_end) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_back_end)](https://github.com/zulsb/holbertonschool-web_back_end) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_react)](https://github.com/zulsb/holbertonschool-web_react)
 
-
 </details>
 
 ---
 
-### :star: Let's get connected:
+### :star: Let's get connected:💖
 
 [<img src="https://img.shields.io/badge/LuzSanchez-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luzsanchezb/)
 [<img src="https://img.shields.io/badge/@LuzSanchezB-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white"/>](https://twitter.com/LuzSanchezB)
