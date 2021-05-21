@@ -2,6 +2,8 @@
 Welcome
 ======
 
+I'm a Colombian Full Stack Software Developer with emphasis on Web programming, in continuous professional growth in the area of technology and design. My curiosity, positive energy, enthusiasm, organization, focus, analysis and perseverance is what identifies me and makes me feel proud of myself, to finish every project and goal I start.
+
 
 
 **You can find me on:**
@@ -13,16 +15,16 @@ Welcome
   <summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Projects</b></summary>
 	<br/>
 
-  ## :globe_with_meridians: Course Projects
+  #### :globe_with_meridians: Course Projects
 
-  ### Developed for training
+  ##### Developed for training
 
   :muscle: 
 
-## :books: Holberton School - Projects
-:school:
+  #### :books: Holberton School - Projects
+  :school:
  
-## :computer: Other repositories
+  #### :computer: Other repositories
 </details>
 
 <details>
