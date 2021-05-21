@@ -2,12 +2,11 @@
 <p><samp> Welcome to my Github!
 I'm a Colombian Full Stack Software Developer with emphasis on Web programming, in continuous professional growth in the area of technology and design. My curiosity, positive energy, enthusiasm, organization, focus, analysis and perseverance is what identifies me and makes me feel proud of myself, to finish every project and goal I start.</samp></p>
 
-```
-• 💻 I am currently learning and exploring with React.
-• 🎓 I recently finished the Software Development program and Web Stack specialization at Holberton School.👌
-• 🎯 Motto: I choose growth🌱 over comfort.
-• ⚡ Fun fact: I love coffee ☕ and more while working.👩‍💻
-```
++ 💻 I am currently learning and exploring with React.
++ 🎓 I recently finished the Software Development program and Web Stack specialization at Holberton School.👌
++ 🎯 Motto: I choose growth🌱 over comfort.
++ ⚡ Fun fact: I love coffee ☕ and more while working.👩‍💻
+
 
 
 #### :star: Let's get connected:
