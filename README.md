@@ -13,15 +13,11 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 <details>
 <summary>📂&nbsp;&nbsp;&nbsp;<b>Projects</b></summary>
 
-#### ✏️ Courses Projects
+### ✏️ Courses Projects
 
 ---
 
-#### 📚 Holberton School - Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-low_level_programming)](https://github.com/zulsb/holbertonschool-low_level_programming)
-
----
+### 📚 Holberton School - Projects
 
 * **Foundations**
 
