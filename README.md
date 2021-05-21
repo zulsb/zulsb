@@ -38,7 +38,7 @@ Front-end | Back-end | React
 
 ---
 
-### :star: Let's get connected:💖
+<h3 align="center"> ⭐Let's get connected:💖
 
 [<img src="https://img.shields.io/badge/LuzSanchez-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luzsanchezb/)
-[<img src="https://img.shields.io/badge/@LuzSanchezB-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white"/>](https://twitter.com/LuzSanchezB)
+[<img src="https://img.shields.io/badge/@LuzSanchezB-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white"/>](https://twitter.com/LuzSanchezB) </h3>
