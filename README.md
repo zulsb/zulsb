@@ -1,12 +1,14 @@
-### Hi, I'm Luz Sánchez 👋
-Welcome
-======
+### Hi, I'm Luz Sánchez
+<p><samp> Hi there 👋 welcome to my Github!
+I'm a Colombian Full Stack Software Developer with emphasis on Web programming, in continuous professional growth in the area of technology and design. My curiosity, positive energy, enthusiasm, organization, focus, analysis and perseverance is what identifies me and makes me feel proud of myself, to finish every project and goal I start.</samp></p>
 
-I'm a Colombian Full Stack Software Developer with emphasis on Web programming, in continuous professional growth in the area of technology and design. My curiosity, positive energy, enthusiasm, organization, focus, analysis and perseverance is what identifies me and makes me feel proud of myself, to finish every project and goal I start.
+* <h4><samp>💻 I am currently learning and exploring with React.</samp></h4>
+* <h4><samp>🎯 Motto: "I choose growth🌱 over comfort".</samp></h4>
+* <h4><samp>⚡ Fun fact: I love coffee :coffee: and more while working.</samp></h4>
 
 
 
-**You can find me on:**
+#### :star: Let's get connected:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/)
