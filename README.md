@@ -20,14 +20,14 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 
 #### 📚 Holberton School - Projects
 
-**Foundations**
+* **Foundations**
 
 Low-level programming & Algorithm | Higher-level programming | System engineering & DevOps
 ------------ | ------------- | -------------
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-low_level_programming)](https://github.com/zulsb/holbertonschool-low_level_programming) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-higher_level_programming)](https://github.com/zulsb/holbertonschool-higher_level_programming) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holberton-system_engineering-devops)](https://github.com/zulsb/holberton-system_engineering-devops)
 
 
-**Specialization - Web Stack programming**
+* **Specialization - Web Stack programming**
 
 Front-end | Back-end | React
 ------------ | ------------- | -------------
@@ -36,7 +36,7 @@ Front-end | Back-end | React
 
 </details>
 
-#### :star: Let's get connected:
+### :star: Let's get connected:
 
 [<img src="https://img.shields.io/badge/LuzSanchez-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luzsanchezb/)
 [<img src="https://img.shields.io/badge/@LuzSanchezB-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white"/>](https://twitter.com/LuzSanchezB)
