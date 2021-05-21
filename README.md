@@ -8,9 +8,6 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 + **🎯 Motto: I choose growth🌱 over comfort.**
 + **⚡ Fun fact: I love coffee ☕ and more while working.👩‍💻**
 
-<h3 align="center">✨Top Languages</h3>
-<p align="center">
-<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=zulsb&layout=compact" alt="GitHub Top Languages"/></p>
 <br/>
 
 <details>
@@ -21,6 +18,8 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 ---
 
 #### 📚 Holberton School - Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-low_level_programming)](https://github.com/zulsb/holbertonschool-low_level_programming)
 
 ---
 
