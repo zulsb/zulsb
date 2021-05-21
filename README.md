@@ -8,28 +8,19 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 + **🎯 Motto: I choose growth🌱 over comfort.**
 + **⚡ Fun fact: I love coffee ☕ and more while working.👩‍💻**
 
-#### ✨GitHub Stats:
-	
-<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=zulsb&layout=compact" alt="GitHub Top Languages" align="top"/>
-
 <details>
-  <summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Projects</b></summary>
+  <summary>📂&nbsp;&nbsp;&nbsp;<b>Projects</b></summary>
 	<br/>
 
-  #### :globe_with_meridians: Course Projects
+  #### ✏️ Courses Projects
 
-  ##### Developed for training
+  ##### Training
 
-  :muscle: 
+  #### 📚 Holberton School - Projects
 
-  #### :books: Holberton School - Projects
-  :school:
-  
+<p align="center"><img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=zulsb&layout=compact" alt="GitHub Top Languages"/></p>
+<br/>
 
-
-
- 
-  #### :computer: Other repositories
 </details>
 
 #### :star: Let's get connected:
