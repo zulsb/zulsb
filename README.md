@@ -17,7 +17,11 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 
 ---
 
+* **TicTack - SPA**
+
 ### 📚 Holberton School - Projects
+
+---
 
 * **Foundations**
 
