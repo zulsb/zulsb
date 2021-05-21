@@ -8,18 +8,27 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 + **🎯 Motto: I choose growth🌱 over comfort.**
 + **⚡ Fun fact: I love coffee ☕ and more while working.👩‍💻**
 
-<p align="center"><img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=zulsb&layout=compact" alt="GitHub Top Languages"/></p>
+<h3 align="center">My stats</h3>
+<p align="center">
+<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=zulsb&layout=compact" alt="GitHub Top Languages"/></p>
 <br/>
 
 <details>
   <summary>📂&nbsp;&nbsp;&nbsp;<b>Projects</b></summary>
-	<br/>
 
   #### ✏️ Courses Projects
 
-  ##### Training
-
   #### 📚 Holberton School - Projects
+
+  
+  
+
+
+Low-level programming & Algorithm | Higher-level programming | System engineering & DevOps
+------------ | ------------- | -------------
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-low_level_programming)](https://github.com/zulsb/holbertonschool-low_level_programming) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-higher_level_programming)](https://github.com/zulsb/holbertonschool-higher_level_programming) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holberton-system_engineering-devops)](https://github.com/zulsb/holberton-system_engineering-devops)
+
+
 </details>
 
 #### :star: Let's get connected:
