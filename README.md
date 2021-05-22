@@ -6,7 +6,7 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 + **💻 I am currently learning and exploring with React.**
 + **🎓 Completed: Software Development program and Web Stack specialization at Holberton School.👌**
 + **🎯 Motto: I choose growth🌱 over comfort.**
-+ **⚡ Fun fact: I love coffee ☕ and more while working.👩‍💻**
++ **⚡ Fun fact: Coffee is my passion!!!☕👩‍💻**
 
 <br/>
 
