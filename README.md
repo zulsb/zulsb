@@ -10,20 +10,17 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 
 <br/>
 
-<details>
+<!-- <details>
 <summary>📂<b> Projects</b></summary>
 
 ### ✏️ Courses Projects
-
----
-
 * **React**
 
 #### TicTak - SPA
+</details> -->
 
-### 📚 Holberton School - Projects
-
----
+<details>
+<summary>📚<b> Holberton School - Projects</b></summary>
 
 * **Foundations**
 
@@ -47,4 +44,7 @@ Front-end | Back-end | React
 <h4 align="center">
 
 [<img src="https://img.shields.io/badge/LuzSanchez-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luzsanchezb/)
-[<img src="https://img.shields.io/badge/@LuzSanchezB-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white"/>](https://twitter.com/LuzSanchezB) </h4>
+[<img src="https://img.shields.io/badge/@LuzSanchezB-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white"/>](https://twitter.com/LuzSanchezB)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luzsanchez.dev@gmail.com)](mailto:luzsanchez.dev@gmail.com)
+
+</h4>
