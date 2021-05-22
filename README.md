@@ -21,6 +21,7 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 
 <details>
 <summary>📚<b> Holberton School - Projects</b></summary>
+<br>
 
 * **Foundations**
 
@@ -28,6 +29,7 @@ Low-level programming & Algorithm | Higher-level programming | System engineerin
 ------------ | ------------- | -------------
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-low_level_programming&show_owner=true)](https://github.com/zulsb/holbertonschool-low_level_programming) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-higher_level_programming&show_owner=true)](https://github.com/zulsb/holbertonschool-higher_level_programming) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holberton-system_engineering-devops&show_owner=true)](https://github.com/zulsb/holberton-system_engineering-devops)
 
+<br>
 
 * **Specialization - Web Stack programming**
 
