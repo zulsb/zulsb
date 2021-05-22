@@ -11,7 +11,7 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 <br/>
 
 <details>
-<summary>📂<b>Projects</b></summary>
+<summary>📂<b> Projects</b></summary>
 
 ### ✏️ Courses Projects
 
