@@ -7,17 +7,13 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 + **💻 I am currently learning and exploring with React.**
 + **🎓 Completed: Software Development program and Web Stack specialization at Holberton School.👌**
 + **🎯 Motto: I choose growth🌱 over comfort.**
-+ **⚡ Fun fact: Coffee is my passion!!!☕👩‍💻**
++ **⚡ Fun fact: A coffee is a must when it comes to work!!!☕👩‍💻**
 
 <br/>
 
 <!-- <details>
 <summary>📂<b> Projects</b></summary>
-
 ### ✏️ Courses Projects
-* **React**
-
-#### TicTak - SPA
 </details> -->
 
 <details>
@@ -40,7 +36,8 @@ Front-end | Back-end | React
 
 </details>
 
----
+![Footer](https://user-images.githubusercontent.com/7723544/119240053-ff2ee180-bb12-11eb-8924-e4faf609d068.gif)
+
 
 <h3 align="center"> ⭐Let's get connected:💖</h3>
 
