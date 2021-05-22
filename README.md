@@ -1,5 +1,5 @@
-### Hi, I'm Luz Sánchez
-Welcome to my Github!
+![Github Banner](https://user-images.githubusercontent.com/7723544/119210259-e1a93b80-ba70-11eb-8ad9-7fa13205c223.gif)
+
 I'm a Colombian Full Stack Software Developer with emphasis on Web programming, in continuous professional growth in the area of technology and design. My curiosity, positive energy, enthusiasm, organization, focus, analysis and perseverance is what identifies me and makes me feel proud of myself, to finish every project and goal I start.
 
 
