@@ -11,10 +11,11 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 
 <br/>
 
-<!-- <details>
-<summary>📂<b> Projects</b></summary>
-### ✏️ Courses Projects
-</details> -->
+<details>
+<summary>📂<b> Training</b></summary>
+
+* [TikTok clone SPA](https://github.com/zulsb/TikTak)
+</details>
 
 <details>
 <summary>📚<b> Holberton School - Projects</b></summary>
