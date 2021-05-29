@@ -4,17 +4,41 @@
 I'm a Colombian Full Stack Software Developer with emphasis on Web programming, in continuous professional growth in the area of technology and design. My curiosity, positive energy, enthusiasm, organization, focus, analysis and perseverance is what identifies me and makes me feel proud of myself, to finish every project and goal I start.
 
 
-+ **💻 I am currently learning and exploring with React.**
-+ **🎓 Completed: Software Development program and Web Stack specialization at Holberton School.👌**
-+ **🎯 Motto: I choose growth🌱 over comfort.**
-+ **⚡ Fun fact: A coffee is a must when it comes to work!!!☕👩‍💻**
+**💻 I am currently learning and exploring with React.**<br/>
+**🎓 Completed: Software Development program and Web Stack specialization at Holberton School.👌**<br/>
+**🎯 Motto: I choose growth🌱 over comfort.**<br/>
+**⚡ Fun fact: A coffee is a must when it comes to work!!!☕👩‍💻**
 
 <br/>
+
+#### Technologies
+
+![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=000000&color=%23f0db4f)
+![Bootstrap](https://img.shields.io/badge/-BootStrap-%23563d7c?style=flat-square&logo=bootstrap&logoColor=%23ffffff)
+![WordPress](https://img.shields.io/badge/-WordPress-%2300749C?style=flat-square&logo=wordpress&logoColor=%23ffffff)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Styled components](https://img.shields.io/badge/-Styled_Components-%23db7092?style=flat-square&logo=styled-components&logoColor=%23ffffff)
+![Python](https://img.shields.io/badge/-Python-%234B8BBE?style=flat-square&logo=python&logoColor=%23ffffff)
+![Php](https://img.shields.io/badge/-php-%238993be?style=flat-square&logo=php&logoColor=%23ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-%2300758F?style=flat-square&logo=mysql&logoColor=%23ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-%23F5820D?style=flat-square&logo=firebase&logoColor=%23FFCB2B)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+
+
+#### Stats
+![My stats](https://github-readme-stats.vercel.app/api?username=zulsb&hide=issues&show_icons=true&theme=slateorange)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulsb&layout=compact&theme=slateorange)
+
+
 
 <details>
 <summary>🌈<b> Training</b></summary>
 
-* [TikTok clone SPA](https://github.com/zulsb/TikTak)
+[<img src="https://img.shields.io/badge/-TikTak_Clone_SPA-%23282C34?style=flat-square&logo=react"/>](https://github.com/zulsb/TikTak)
+
 </details>
 
 <details>
@@ -44,7 +68,7 @@ Front-end | Back-end | React
 
 <h4 align="center">
 
-[<img src="https://img.shields.io/badge/LuzSanchez-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luzsanchezb/)
+[<img src="https://img.shields.io/badge/Luz_Sanchez-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luzsanchezb/)
 [<img src="https://img.shields.io/badge/@LuzSanchezB-%231da1f2.svg?&style=flat-square&logo=twitter&logoColor=white"/>](https://twitter.com/LuzSanchezB)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luzsanchez.dev@gmail.com)](mailto:luzsanchez.dev@gmail.com)
 
