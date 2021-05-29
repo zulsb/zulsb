@@ -9,8 +9,6 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 **🎯 Motto: I choose growth🌱 over comfort.**<br/>
 **⚡ Fun fact: A coffee is a must when it comes to work!!!☕👩‍💻**
 
-<br/>
-
 #### Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -28,10 +26,13 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 
 
 #### Stats
-![My stats](https://github-readme-stats.vercel.app/api?username=zulsb&hide=issues&show_icons=true&theme=slateorange)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulsb&layout=compact&theme=slateorange)
-
+<table align="center">
+    <tr>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=zulsb&hide=issues&show_icons=true&theme=slateorange" alt="some text"></td>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulsb&layout=compact&theme=slateorange" alt="some text"></td>
+    </tr>
+</table>
 
 
 <details>
