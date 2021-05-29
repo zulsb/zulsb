@@ -9,8 +9,8 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 **🎯 Motto: I choose growth🌱 over comfort.**<br/>
 **⚡ Fun fact: A coffee is a must when it comes to work!!!☕👩‍💻**
 
-<table align="center">
-    <tr>
+<table align="center" border-style="none">
+    <tr border-style="none">
         <td><img src="https://github-readme-stats.vercel.app/api?username=zulsb&hide=issues&show_icons=true&theme=slateorange" alt="some text"></td>
         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulsb&layout=compact&theme=slateorange" alt="some text"></td>
     </tr>
