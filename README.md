@@ -27,8 +27,8 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 
 #### Stats
 
-<table align="center" border=0>
-    <tr>
+<table align="center" >
+    <tr border=0>
         <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=zulsb&hide=issues&show_icons=true&theme=slateorange" alt="some text"></td>
         <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulsb&layout=compact&theme=slateorange" alt="some text"></td>
     </tr>
@@ -37,6 +37,7 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 
 <details>
 <summary>🌈<b> Training</b></summary>
+
 
 [<img src="https://img.shields.io/badge/-TikTak_Clone_SPA-%23282C34?style=flat-square&logo=react"/>](https://github.com/zulsb/TikTak)
 
