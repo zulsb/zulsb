@@ -9,6 +9,13 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 **🎯 Motto: I choose growth🌱 over comfort.**<br/>
 **⚡ Fun fact: A coffee is a must when it comes to work!!!☕👩‍💻**
 
+<table align="center">
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=zulsb&hide=issues&show_icons=true&theme=slateorange" alt="some text"></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulsb&layout=compact&theme=slateorange" alt="some text"></td>
+    </tr>
+</table>
+
 #### Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -24,20 +31,9 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 ![Firebase](https://img.shields.io/badge/-Firebase-%23F5820D?style=flat-square&logo=firebase&logoColor=%23FFCB2B)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
-
-#### Stats
-
-<table align="center" border="0">
-    <tr border="0">
-        <td border="0"><img src="https://github-readme-stats.vercel.app/api?username=zulsb&hide=issues&show_icons=true&theme=slateorange" alt="some text"></td>
-        <td border="0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulsb&layout=compact&theme=slateorange" alt="some text"></td>
-    </tr>
-</table>
-
-
 <details>
 <summary>🌈<b> Training</b></summary>
-
+<br>
 
 [<img src="https://img.shields.io/badge/-TikTak_Clone_SPA-%23282C34?style=flat-square&logo=react"/>](https://github.com/zulsb/TikTak)
 
@@ -51,7 +47,7 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 
 Low-level programming & Algorithm | Higher-level programming | System engineering & DevOps
 ------------ | ------------- | -------------
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-low_level_programming&show_owner=true)](https://github.com/zulsb/holbertonschool-low_level_programming) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-higher_level_programming&show_owner=true)](https://github.com/zulsb/holbertonschool-higher_level_programming) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holberton-system_engineering-devops&show_owner=true)](https://github.com/zulsb/holberton-system_engineering-devops)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-low_level_programming&show_owner=true&theme=slateorange)](https://github.com/zulsb/holbertonschool-low_level_programming) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-higher_level_programming&show_owner=true&theme=slateorange)](https://github.com/zulsb/holbertonschool-higher_level_programming) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holberton-system_engineering-devops&show_owner=true&theme=slateorange)](https://github.com/zulsb/holberton-system_engineering-devops)
 
 <br>
 
@@ -59,7 +55,7 @@ Low-level programming & Algorithm | Higher-level programming | System engineerin
 
 Front-end | Back-end | React
 ------------ | ------------- | -------------
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_front_end&show_owner=true)](https://github.com/zulsb/holbertonschool-web_front_end) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_back_end&show_owner=true)](https://github.com/zulsb/holbertonschool-web_back_end) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_react&show_owner=true)](https://github.com/zulsb/holbertonschool-web_react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_front_end&show_owner=true&theme=slateorange)](https://github.com/zulsb/holbertonschool-web_front_end) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_back_end&show_owner=true&theme=slateorange)](https://github.com/zulsb/holbertonschool-web_back_end) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulsb&repo=holbertonschool-web_react&show_owner=true&theme=slateorange)](https://github.com/zulsb/holbertonschool-web_react)
 
 </details>
 
