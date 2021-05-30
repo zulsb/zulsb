@@ -9,14 +9,15 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 **🎯 Motto: I choose growth🌱 over comfort.**<br/>
 **⚡ Fun fact: A coffee is a must when it comes to work!!!☕👩‍💻**
 
-<table align="center" border-style="none">
-    <tr border-style="none">
+<table align="center">
+    <tr>
         <td><img src="https://github-readme-stats.vercel.app/api?username=zulsb&hide=issues&show_icons=true&theme=slateorange" alt="some text"></td>
         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulsb&layout=compact&theme=slateorange" alt="some text"></td>
     </tr>
 </table>
 
-#### Technologies
+
+<h3 align="center">🔅Technologies
 <h4 align="center">
 
 ![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -24,7 +25,7 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=000000&color=%23f0db4f)
 ![Bootstrap](https://img.shields.io/badge/-BootStrap-%23563d7c?style=flat-square&logo=bootstrap&logoColor=%23ffffff)
 ![WordPress](https://img.shields.io/badge/-WordPress-%2300749C?style=flat-square&logo=wordpress&logoColor=%23ffffff)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-%23323232?style=flat-square&logo=react)
 ![Styled components](https://img.shields.io/badge/-Styled_Components-%23db7092?style=flat-square&logo=styled-components&logoColor=%23ffffff)
 
 ![Python](https://img.shields.io/badge/-Python-%234B8BBE?style=flat-square&logo=python&logoColor=%23ffffff)
@@ -39,7 +40,7 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 <summary>🌈<b> Training</b></summary>
 <br>
 
-[<img src="https://img.shields.io/badge/-TikTak_Clone_SPA-%23282C34?style=flat-square&logo=react"/>](https://github.com/zulsb/TikTak)
+[<img src="https://img.shields.io/badge/-TikTak_Clone_SPA-%23323232?style=flat-square&logo=react"/>](https://github.com/zulsb/TikTak)
 
 </details>
 
