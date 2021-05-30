@@ -17,6 +17,7 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 </table>
 
 #### Technologies
+<h4 align="center">
 
 ![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3)
@@ -25,11 +26,14 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 ![WordPress](https://img.shields.io/badge/-WordPress-%2300749C?style=flat-square&logo=wordpress&logoColor=%23ffffff)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Styled components](https://img.shields.io/badge/-Styled_Components-%23db7092?style=flat-square&logo=styled-components&logoColor=%23ffffff)
+
 ![Python](https://img.shields.io/badge/-Python-%234B8BBE?style=flat-square&logo=python&logoColor=%23ffffff)
 ![Php](https://img.shields.io/badge/-php-%238993be?style=flat-square&logo=php&logoColor=%23ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%2300758F?style=flat-square&logo=mysql&logoColor=%23ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-%23F5820D?style=flat-square&logo=firebase&logoColor=%23FFCB2B)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+
+</h4>
 
 <details>
 <summary>🌈<b> Training</b></summary>
