@@ -1,7 +1,7 @@
 ![Github Banner](https://user-images.githubusercontent.com/7723544/119219169-b7c03b00-baa9-11eb-9927-8262978ed5f4.gif)
 
 
-I'm a Colombian Full Stack Software Developer with emphasis on Web programming, in continuous professional growth in the area of technology and design. My curiosity, positive energy, enthusiasm, organization, focus, analysis and perseverance is what identifies me and makes me feel proud of myself, to finish every project and goal I start.
+I'm a Colombian Full Stack Software Developer with emphasis on Web programming, in continuous professional growth in the area of technology and design.
 
 
 **💻 I am currently learning and exploring with React.**<br/>
