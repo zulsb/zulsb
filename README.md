@@ -39,7 +39,7 @@ I'm a Colombian Full Stack Software Developer with emphasis on Web programming, 
 <summary>🌈<b> Training</b></summary>
 <br>
 
-[<img src="https://img.shields.io/badge/-TikTak_Clone_SPA-%23323232?style=flat-square&logo=react"/>](https://github.com/zulsb/TikTak) [<img src="https://img.shields.io/badge/-Gradient_Color_Generator-%23E44D27?style=flat-square"/>](https://zulsb.github.io/html-css-javascript-jquery/Gradient-color-generator/index.html)
+[<img src="https://img.shields.io/badge/-TikTak_Clone_SPA-%23323232?style=flat-square&logo=react"/>](https://github.com/zulsb/TikTak) [<img src="https://img.shields.io/badge/-Gradient_Color_Generator-%23E44D27?style=flat-square"/>](https://zulsb.github.io/html-css-javascript-jquery/Gradient-color-generator/index.html) [<img src="https://img.shields.io/badge/-To_Do_List_App-%235a01d0?style=flat-square"/>](https://zulsb.github.io/html-css-javascript-jquery/ToDoNewList/index.html)
 
 </details>
 
